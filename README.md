@@ -1,6 +1,6 @@
 # eithantar.win.se
 My Professional Website.
-<h1>Hi, I'm Ei Thantar Win! <br/><a href="https://github.com/eithantar">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Ei Thantar Win! <br/><a href="https://github.com/eithantar">Programmer</a>, <a href="https://www.linkedin.com/in/ei-thantar-win-443576157/"> Software Engineer. </a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
